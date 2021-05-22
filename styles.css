@@ -14,6 +14,7 @@ h1 {
 }
 
 button {
+  background-color: #fafafa;
   background-repeat: no-repeat;
   background-position: center;
   background-size: 150px;
@@ -88,4 +89,8 @@ input:hover {
 
 .pig {
   background-image: url("images/pig.png");
+}
+
+.rooster {
+  background-image: url("images/rooster.png");
 }
