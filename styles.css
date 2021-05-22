@@ -79,6 +79,7 @@ input:hover {
 
 .duck {
   background-image: url("images/duck.png");
+  background-size: 185px;
 }
 
 .frog {
@@ -101,4 +102,5 @@ input:hover {
 
 .rooster {
   background-image: url("images/rooster.png");
+  background-size: 185px;
 }
