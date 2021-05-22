@@ -60,6 +60,10 @@ input:hover {
   background-image: url("images/cat.png");
 }
 
+.chicken {
+  background-image: url("images/chicken.png");
+}
+
 .cow {
   background-image: url("images/cow.png");
 }
