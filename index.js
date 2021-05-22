@@ -27,19 +27,24 @@ addEventListener("keydown", function(event) {
 function playSoundFromKey(letter) {
   var animal = "none";
   switch (letter) {
-      case "a": animal = "cat"; break;
-      case "s": animal = "frog"; break;
-      case "d": animal = "dog"; break;
-      case "f": animal = "cow"; break;
-      case "g": animal = "monkey"; break;
-      case "h": animal = "bear"; break;
-      case "j": animal = "donkey"; break;
-      case "k": animal = "pig"; break;
-      case "l": animal = "lion"; break;
-      case "q": animal = "rooster"; break;
-      case "w": animal = "chicken"; break;
-      case "e": animal = "duck"; break;
-      case "r": animal = "elephant"; break;
+      case "q": animal = "cat"; break;
+      case "w": animal = "frog"; break;
+      case "e": animal = "dog"; break;
+      case "r": animal = "cow"; break;
+      case "t": animal = "monkey"; break;
+      case "y": animal = "bear"; break;
+      case "u": animal = "donkey"; break;
+      case "i": animal = "pig"; break;
+      case "o": animal = "lion"; break;
+      case "p": animal = "rooster"; break;
+      case "a": animal = "chicken"; break;
+      case "s": animal = "duck"; break;
+      case "d": animal = "elephant"; break;
+      case "f": animal = "whale"; break;
+      case "g": animal = "dolphin"; break;
+      case "h": animal = "horse"; break;
+      case "j": animal = "mouse"; break;
+      case "k": animal = "tiger"; break;
       default: animal = "bubble"; break;
     }
   makeSound(animal);
