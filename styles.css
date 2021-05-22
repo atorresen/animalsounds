@@ -1,0 +1,91 @@
+body {
+  background-color: #f7fffe;
+  font-family: "Padauk", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #e2e2e2;
+  font-size: 4rem;
+}
+
+.set {
+  margin: 0 auto;
+}
+
+button {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 150px;
+  border: solid #a2ead6;
+  border-radius: 80%;
+  border-width: 10px;
+  font-family: monospace;
+  font-size: 2rem;
+  padding-bottom: 150px;
+  margin: 30px;
+  height: 180px;
+  width: 180px;
+}
+
+button:hover {
+  border: solid #71c4b1;
+  border-width: 10px;
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  margin: 30px;
+}
+
+input {
+  border: 2px solid #d4d4d4;
+  border-radius: 4px;
+  color: #a2a2a2;
+  font-size: 1.25rem;
+  margin: 75px;
+  height: 50px;
+  width: 300px;
+}
+
+input:hover {
+  background-color: #a2ead6;
+}
+
+
+/********************* Animals *********************/
+.bear {
+  background-image: url("images/bear.png");
+}
+
+.cat {
+  background-image: url("images/cat.png");
+}
+
+.cow {
+  background-image: url("images/cow.png");
+}
+
+.dog {
+  background-image: url("images/dog.png");
+}
+
+.donkey {
+  background-image: url("images/donkey.png");
+  background-size: 180px;
+}
+
+.frog {
+  background-image: url("images/frog.png");
+}
+
+.lion {
+  background-image: url("images/lion.png");
+  background-size: 180px;
+}
+
+.monkey {
+  background-image: url("images/monkey.png");
+  background-size: 130px;
+}
+
+.pig {
+  background-image: url("images/pig.png");
+}
