@@ -82,6 +82,10 @@ input:hover {
   background-size: 185px;
 }
 
+.elephant {
+  background-image: url("images/elephant.png");
+}
+
 .frog {
   background-image: url("images/frog.png");
 }
