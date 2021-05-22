@@ -72,6 +72,10 @@ input:hover {
   background-image: url("images/dog.png");
 }
 
+.dolphin {
+  background-image: url("images/dolphin.png");
+}
+
 .donkey {
   background-image: url("images/donkey.png");
   background-size: 180px;
@@ -91,6 +95,10 @@ input:hover {
   background-image: url("images/frog.png");
 }
 
+.horse {
+  background-image: url("images/horse.png");
+}
+
 .lion {
   background-image: url("images/lion.png");
   background-size: 180px;
@@ -101,6 +109,10 @@ input:hover {
   background-size: 130px;
 }
 
+.mouse {
+  background-image: url("images/mouse.png");
+}
+
 .pig {
   background-image: url("images/pig.png");
 }
@@ -108,4 +120,12 @@ input:hover {
 .rooster {
   background-image: url("images/rooster.png");
   background-size: 185px;
+}
+
+.tiger {
+  background-image: url("images/tiger.png");
+}
+
+.whale {
+  background-image: url("images/whale.png");
 }
