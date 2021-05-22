@@ -39,6 +39,7 @@ function playSoundFromKey(letter) {
       case "q": animal = "rooster"; break;
       case "w": animal = "chicken"; break;
       case "e": animal = "duck"; break;
+      case "r": animal = "elephant"; break;
       default: animal = "bubble"; break;
     }
   makeSound(animal);
