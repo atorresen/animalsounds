@@ -113,6 +113,10 @@ input:hover {
   background-image: url("images/mouse.png");
 }
 
+.ostrich {
+  background-image: url("images/ostrich.png");
+}
+
 .pig {
   background-image: url("images/pig.png");
 }
